@@ -1,1 +1,1 @@
-# business_index.html
+index.html
